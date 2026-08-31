@@ -44,7 +44,7 @@
           <mxGeometry height="20" width="60" x="403" y="95" as="geometry" />
         </mxCell>
         <mxCell id="s9Yykzazo21ckPtqC1gN-4" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="70" width="10" x="428" y="203" as="geometry" />
+          <mxGeometry height="87" width="10" x="428" y="203" as="geometry" />
         </mxCell>
         <mxCell id="s9Yykzazo21ckPtqC1gN-7" edge="1" parent="1" source="s9Yykzazo21ckPtqC1gN-4" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="s9Yykzazo21ckPtqC1gN-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -61,14 +61,14 @@
         <mxCell id="s9Yykzazo21ckPtqC1gN-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Authorization header=Bearer JWT Token&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="204" x="137" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="s9Yykzazo21ckPtqC1gN-12" edge="1" parent="1" source="s9Yykzazo21ckPtqC1gN-4" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="s9Yykzazo21ckPtqC1gN-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="341" y="250" as="sourcePoint" />
-            <mxPoint x="110" y="250" as="targetPoint" />
+            <mxPoint x="428" y="254" as="sourcePoint" />
+            <mxPoint x="110" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s9Yykzazo21ckPtqC1gN-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;401 Unauthorized&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="91" x="193" y="250" as="geometry" />
+          <mxGeometry height="20" width="91" x="193" y="253" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
