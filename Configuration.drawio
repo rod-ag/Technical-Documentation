@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5IWeQkjQq3dsSlkv-cUL-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Configuration&lt;/font&gt;&amp;nbsp;(Spring Cloud Config - old)" vertex="1">
-          <mxGeometry height="30" width="260" x="284" y="787" as="geometry" />
+          <mxGeometry height="30" width="260" x="284" y="796" as="geometry" />
         </mxCell>
         <mxCell id="5IWeQkjQq3dsSlkv-cUL-3" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bootstrap Context&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="280" y="916" as="geometry" />
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5IWeQkjQq3dsSlkv-cUL-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Configuration&lt;/font&gt;&amp;nbsp;(Spring Cloud Kubernetes - new)" vertex="1">
-          <mxGeometry height="30" width="299" x="264" y="60" as="geometry" />
+          <mxGeometry height="30" width="299" x="256" y="72" as="geometry" />
         </mxCell>
         <mxCell id="5IWeQkjQq3dsSlkv-cUL-33" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bootstrap Context&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="280" y="499" as="geometry" />
@@ -200,6 +200,69 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="314.67" y="530" as="sourcePoint" />
             <mxPoint x="314.67" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-55" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;git push&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="50" x="250" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-56" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="161.67000000000002" as="sourcePoint" />
+            <mxPoint x="340" y="161.67000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-57" parent="1" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="338" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bitbucket repo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="323.5" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-59" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure/1/WebHook-173.svg" value="" vertex="1">
+          <mxGeometry height="30" width="32.34" x="426.83000000000004" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-60" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="382.5" y="161.67000000000002" as="sourcePoint" />
+            <mxPoint x="422.5" y="161.67000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Webhook&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="412" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="467.5" y="161.67000000000002" as="sourcePoint" />
+            <mxPoint x="507.5" y="161.67000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-63" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" value="" vertex="1">
+          <mxGeometry height="33" width="26.78" x="181.61" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;YAML&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="160" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-65" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="208.39" y="162" as="sourcePoint" />
+            <mxPoint x="248.39" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-66" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Azure_Red_Hat_OpenShift.svg;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="510" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Openshift&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="495" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-68" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/kubernetes/1/cm.svg;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="591.06" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kunernetes Configmap&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="576.06" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="5IWeQkjQq3dsSlkv-cUL-73" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="545.06" y="160.67000000000002" as="sourcePoint" />
+            <mxPoint x="585.06" y="160.67000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
